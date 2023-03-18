@@ -1,0 +1,17 @@
+
+dependencies: []
+
+galaxy_info:
+  author: Dina Elhelw
+  description: NTP Role.
+  galaxy_tags:
+    - ntp
+  role_name: ntp_config
+
+
+
+
+
+
+
+
